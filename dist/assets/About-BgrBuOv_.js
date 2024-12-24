@@ -1,0 +1,1 @@
+import{_ as o,c as s,a as t,o as a}from"./index-CTLv8Qed.js";const c={},n={class:"about"};function r(_,e){return a(),s("div",n,e[0]||(e[0]=[t("h1",null,"关于我",-1),t("div",{class:"content"},null,-1)]))}const d=o(c,[["render",r],["__scopeId","data-v-e97b6641"]]);export{d as default};
